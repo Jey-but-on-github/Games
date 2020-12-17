@@ -13,7 +13,7 @@ const STARTBALLY = 240;
 let coorBallX = 0;
 let coorBallY = 0;
 
-/* Array that the games stats */
+/* Array that contains the games stats */
 let stats = [];
 let numBounce = 0;
 
