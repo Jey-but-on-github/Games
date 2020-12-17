@@ -1,0 +1,15 @@
+.center {
+
+    text-align: center;
+}
+
+body{
+
+    background-color: gray;
+}
+
+h3,p {
+
+    color: white;
+    font-family: Arial;
+}
